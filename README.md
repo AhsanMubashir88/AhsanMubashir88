@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhsanMubashir88
-- 👀 I’m interested in data analysis, data visualization and machine learning.
-- 🌱 I’m currently learning python.
+- 👀 I am an electrical power engineer b profession. I’m interested in artificial intelligence and machine learning.
+- 🌱 I’m currently learning python to pursue my interest in AI and ML>
 - 📫 You can reach me at ahsnmbshr@gmail.com
 
 <!---
