@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhsanMubashir88
 - 👀 I am an electrical power engineer by profession.
-- 🌱 I’m currently taking Harvard CS50 Courses Online to be proficient in problem solving by using programming skills.
+- 🌱 Fascinated by the machine learning field and learning the same to find its applications in power grid.
 - 📫 You can reach me at ahsnmbshr@gmail.com
 
 <!---
